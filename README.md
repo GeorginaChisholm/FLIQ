@@ -13,3 +13,8 @@ This repository contains a beginner-friendly tutorial for implementing and under
 1. Install Qiskit:
    ```bash
    pip install qiskit
+
+## 2. Open deutsch_jozsa_tutorial.ipynb in JupyterLab or qBraid Lab.
+## 3. Run through the cells.
+## 4. (Optional) Run local test:
+python test_deutsch_jozsa.py
